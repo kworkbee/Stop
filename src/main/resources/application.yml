@@ -1,0 +1,9 @@
+server:
+  port: 1234
+spring:
+  devtools:
+    livereload:
+      enabled: true
+  h2:
+    console:
+      enabled: true
